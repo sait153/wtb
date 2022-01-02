@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852899180539",
+    "project_id": "mesaj-kripto",
+    "storage_bucket": "mesaj-kripto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852899180539:android:17c34f661cd116ea76a55e",
+        "android_client_info": {
+          "package_name": "com.example.mesajdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852899180539-jj5432tbjjbv2aobulnsqr48rdmt99j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpcoCGxT5-ZyCx4S8-SYFe1Qh6ts5hnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852899180539-jj5432tbjjbv2aobulnsqr48rdmt99j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
